@@ -38,7 +38,7 @@ class FTConnectDeformerGUI(QDialog):
         """
         super(FTConnectDeformerGUI, self).__init__(parent)
         
-        self.setWindowTitle("FT Connect Deformer")
+        self.setWindowTitle("FT Connect Deformer v1.0")
         self.setWindowFlags(Qt.Window)
         self.setMinimumSize(400, 500)
         
